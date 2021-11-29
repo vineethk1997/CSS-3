@@ -1,0 +1,151 @@
+.body-color{
+    background-color: sienna;
+}
+.first{
+    border: 5px solid red;
+    text-align: center;
+    background-color: white;
+    width: 350px;
+    line-height: 30px;
+    font-style: italic;
+    padding: 20px 40px;
+    margin:0%;
+    border-radius: 15px;
+    color:maroon;
+    font-size: 20px;
+    position: relative;
+    left: 30%;
+}
+
+.second-container{
+    border: 7px solid green;
+    height:650px;
+    padding: 7px;
+
+}
+.box{
+    border: 5px solid red;
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    padding: 0px;
+    border-radius: 10px;
+
+
+}
+.box-one{
+  position: absolute;
+  top: 33%;
+  text-align: center;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bolder;
+  color: darkolivegreen;
+
+}
+.left-above{
+    margin-top: 10px;
+
+}
+.box-two{
+    position:absolute;
+    top: 33%;
+    left:75%;
+    text-align: center;
+}
+.box-three{
+  position: absolute;
+  top: 92%;
+  text-align: center;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bolder;
+  color: darkolivegreen;
+
+
+}
+.left-below{
+    margin-top: 10px;
+}
+.box-four{
+  position: absolute;
+  text-align: center;
+  left: 75%;
+  top: 95%;
+
+}
+.third-container{
+  width: 700px;
+  background-color: green;
+  border: 10px solid purple;
+  text-align: center;
+  margin-left: 318px;
+}
+.third-text{
+    text-align: center;
+
+}
+.item{
+  width: 350px;
+  height: 350px;
+  border: 3px solid black;
+  display: inline-block;
+  background-color: yellow;
+  line-height: 30px;
+  font-style: italic;
+
+}
+.third-left{
+  position: relative;
+  top: 338px;
+  left: 0px;
+  display: inline-block;
+  float: left;
+  
+  
+
+}
+.third-right{
+
+  left: 0px;
+  display:inline-block;
+  top:20px;
+  float: right;
+  
+
+}
+.third-middle{
+  position: relative;
+  left: 1px;
+  top: -20px;
+  width: 700px;
+
+}
+.sticky{
+  border: 7px solid red;
+  background-color: greenyellow;
+  border-radius: 15px;
+  width: 500px;
+  height: 80px;
+  position: fixed;
+  top: 480px;
+  left: 380px;
+  font-style: italic;
+}
+.offer-left{
+    float: left;
+    width: 300px;
+    font-size: 20px;
+    padding-top: 18px;
+    font-weight: bold;
+    color: red;
+}
+.offer-right{
+  font-size: 18px;
+  padding-left: 18px;
+  font-weight: bold;
+  color: red;
+  float: right;
+
+}
+
